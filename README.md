@@ -22,14 +22,14 @@ Evaluated model performance using accuracy, precision, recall, and F1-score.
 
 <h2>Skills </h2>
 
-- <b>Natural Language Processing (NLP)</b> 
-- <b>Python (Pandas, Numpy, Scikit-learn, NLTK)</b>
-- <b>Text vectorization (TF-IDF)</b>
-- <b>logistic regression</b>
-- <b>Data preprocessing and classification metrics</b>
+- </b>Natural Language Processing (NLP)</b> 
+- </b>Python (Pandas, Numpy, Scikit-learn, NLTK)</b>
+- </b>Text vectorization (TF-IDF)</b>
+- </b>logistic regression</b>
+- </b>Data preprocessing and classification metrics</b>
 
 <h2>Outcomes </h2>
 
-- <b>Successfully built a binary classification model that accurately identifies fake news articles based on their content. The solution lays the groundwork for a scalable fake news detection tool that can be integrated into news aggregation platforms or content moderation systems.
+- </b>Successfully built a binary classification model that accurately identifies fake news articles based on their content. The solution lays the groundwork for a scalable fake news detection tool that can be integrated into news aggregation platforms or content moderation systems.
 
 </b> 
